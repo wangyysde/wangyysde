@@ -1,24 +1,11 @@
-### Hi there 👋
+## I am  <a href="mailto:net_use@bzhy.com">  Wayne Wang(Wang Yuying)</a> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangyysde&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyysde&hide=html,ruby" />
+<img align= src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyysde&hide=html,ruby" />
 
-I’m currently working on Kubernetes & Docker & Containerd
-
-I’m currently learning Go 
-
-Contact with me: <a href="mailto:net_use@bzhy.com">net_use@bzhy.com </a>
- 
-<!--
-**wangyysde/wangyysde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favorite
+### kubernetes
+  - <a href="https://github.com/kubernetes/api" target="_blank"> https://github.com/kubernetes/api </a>
+  - <a href="https://github.com/kubernetes/apiextensions-apiserver" target="_blank"> https://github.com/kubernetes/apiextensions-apiserver </a>
+  - <a href="https://github.com/kubernetes/apimachinery" target="_blank">https://github.com/kubernetes/apimachinery</a>
+  - <a href="https://github.com/kubernetes/apiserver" target="_blank"> https://github.com/kubernetes/apiserver</a>
+  - <a href="https://github.com/wangyysde/wangyysde/kubernetes.md" target="_blank"> kubernetes </a>
