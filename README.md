@@ -1,7 +1,7 @@
 # Hi,👋 I am  Wayne Wang(王余应)
 
 ---
-If you are interested in me, please email me:  📫 net_use@bzhy.com
+If you are interested in me, please email me:  📫 wangyysde@gmail.com
 
 ⚡ Fun fact: **Cloud Native**
 
